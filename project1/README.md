@@ -13,7 +13,7 @@
 
 2. 克隆此仓库:
    ```
-   git clone https://github.com/yourusername/molecule-generator-predictor.git
+   git clone git@github.com:bug-slayer/AI-Drug-Design.git
    cd molecule-generator-predictor
    ```
 
